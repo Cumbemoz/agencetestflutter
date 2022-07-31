@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Agence Test</string>
+    <string name="facebook_app_id">3113377685580046</string>
+    <string name="fb_login_protocol_scheme">fb3113377685580046</string>
+    <string name="facebook_client_token">5546f1d5dd77f3550f6626725d9b626d</string>
+</resources>
